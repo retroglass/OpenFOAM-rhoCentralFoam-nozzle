@@ -1,2 +1,2 @@
 # OpenFOAM-rhoCentralFoam-nozzle
-An axisymmetric nozzle profile analysis using rhoCentralFoam.
+An axisymmetric supersonic nozzle profile analysis using rhoCentralFoam.
